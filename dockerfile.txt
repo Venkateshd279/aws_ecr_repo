@@ -6,3 +6,4 @@ COPY new.py ./new.py
 EXPOSE 8080
 CMD ["python3", "./new.py"]
 hello
+modify3
